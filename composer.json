@@ -1,0 +1,12 @@
+{
+    "name": "hivelocity/php_code_challenge",
+    "description": "",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
